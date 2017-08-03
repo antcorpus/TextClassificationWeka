@@ -1,0 +1,5 @@
+classifier=SMO
+fileToClassify=test.arff
+fileToStem=in.txt
+fileStemmed=out.txt
+folds=586
